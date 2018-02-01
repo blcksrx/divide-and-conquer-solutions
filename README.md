@@ -1,6 +1,6 @@
-# Algorithms solutions
+# Divide and conquer solutions
 
-The solutions to the assignments of Stanford’s Design and analysis of algorithms course.
+The solutions to the assignments of the Divide and Conquer course (the first part of Stanford’s Design and analysis of algorithms course).
 
 ## Assignment 1
 Implement Karatsuba’s algorithm for the multiplication of integers.
